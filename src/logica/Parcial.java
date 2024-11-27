@@ -25,7 +25,8 @@ public class Parcial {
 				respuestaFinal.add(respuesta1);
 				respuestaFinal.add(respuesta2);
 				
-			}return respuestaFinal;}}}
+			}
+			return respuestaFinal;}}}
 
 
 
